@@ -25,12 +25,6 @@ Celem tego repozytorium jest wsparcie procesu zapewnienia jakości aplikacji Ope
 2. Weryfikację zgodności aplikacji z wymaganiami funkcjonalnymi i niefunkcjonalnymi.  
 3. Przeprowadzenie testów funkcjonalnych, wydajnościowych i regresyjnych w sposób uporządkowany i powtarzalny.  
 
-## Narzędzia i środowisko
-
-- **Selenium WebDriver** – automatyzacja testów przeglądarkowych.  
-- **JMeter** – testy wydajnościowe.  
-- Środowisko testowe skonfigurowane z najnowszą wersją aplikacji Open Food Facts.  
-
 ## Kontakt
 
 W przypadku pytań lub sugestii, prosimy o kontakt z zespołem odpowiedzialnym za projekt.  
