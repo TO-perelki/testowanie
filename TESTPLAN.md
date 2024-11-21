@@ -75,19 +75,17 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 
 ### 4.1 Harmonogram testów
 
-| Data          | Zadanie                                                                                     |
-|---------------|--------------------------------------------------------------------------------------------|
-| 08.11.2024    | Przedstawienie zespołów, członków zespołów i ich zadań, rozpoznanych ryzyk oraz aplikacji FOSS. |
-| 15.11.2024    | Przedstawienie specyfikacji wymagań.                                                       |
-| 22.11.2024    | Przedstawienie planów testów.                                                              |
-| 29.11.2024    | Przypadki testowe - iteracja 1: przypadki wysokopoziomowe dla każdego testowanego obszaru.  |
-| 06.12.2024    | Przypadki testowe - iteracja 2: doszczegółowienie (dodanie kroków, danych testowych) oraz pula przypadków dla drugiego zespołu. Losowanie zespołów do testów. |
-| 13.12.2024    | Rezultaty testów - iteracja 1: przedstawienie wyników testów wykonanych przez inny zespół.  |
-| 20.12.2024    | Rezultaty testów - iteracja 2: przedstawienie wyników testów własnych z ostatniego tygodnia. |
-| 03.01.2025    | Rezultaty testów - iteracja 3: przedstawienie wyników testów z ostatniego tygodnia.         |
-| 10.01.2025    | Rezultaty testów - iteracja 4: przedstawienie wyników testów z ostatniego tygodnia.         |
-| 17.01.2025    | Raporty z testów: prezentacja i oneslider z podsumowaniem.                                 |
-| 24.01.2025    | Contingency reserve: czas zarezerwowany na ewentualne poprawki i uzupełnienia.              |
+- **Listopad (tydzień 2):** Przedstawienie zespołów, ich członków, zadań, zidentyfikowanych ryzyk oraz aplikacji FOSS.  
+- **Listopad (tydzień 3):** Przedstawienie specyfikacji wymagań.  
+- **Listopad (tydzień 4):** Przedstawienie planów testów.  
+- **Grudzień (tydzień 1):** Iteracja 1 przypadków testowych: Przygotowanie wysokopoziomowych przypadków testowych dla każdego obszaru.  
+- **Grudzień (tydzień 2):** Iteracja 2 przypadków testowych: Doszczegółowienie (dodanie kroków, danych testowych) oraz przygotowanie puli przypadków dla drugiego zespołu. Losowanie zespołów do testów krzyżowych.  
+- **Grudzień (tydzień 3):** Iteracja 1 wyników testów: Przedstawienie wyników testów przeprowadzonych przez inny zespół.  
+- **Grudzień (tydzień 4):** Iteracja 2 wyników testów: Przedstawienie wyników własnych testów z ostatniego tygodnia.  
+- **Styczeń (tydzień 1):** Iteracja 3 wyników testów: Przedstawienie wyników testów z ostatniego tygodnia.  
+- **Styczeń (tydzień 2):** Iteracja 4 wyników testów: Przedstawienie wyników testów z ostatniego tygodnia.  
+- **Styczeń (tydzień 3):** Raporty z testów: Prezentacja wyników i jednostronicowe podsumowanie.  
+- **Styczeń (tydzień 4):** Rezerwa czasowa: Czas na ewentualne poprawki i uzupełnienia.  
 
 
 ### 4.2 Role i odpowiedzialności
