@@ -59,7 +59,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 ### 3.2 Typy testów
 - **Testy funkcjonalne:** Weryfikacja działania kluczowych funkcji aplikacji.
 - **Testy niefunkcjonalne:** Testy wydajnościowe.
-- **Testy regresyjne:** Sprawdzenie poprawności istniejących funkcji po wprowadzeniu zmian.
+- **Testy regresji:** Sprawdzenie poprawności istniejących funkcji po wprowadzeniu zmian.
 
 ### 3.3 Narzędzia i środowisko testowe
 - **Narzędzia:**
