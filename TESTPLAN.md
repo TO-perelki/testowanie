@@ -24,7 +24,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 #### Typy testów:
 - Testy funkcjonalne.
 - Testy wydajnościowe.
-- Testy regresyjne.
+- Testy regresji.
 
 ---
 
@@ -45,7 +45,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 - Wszystkie wymagania funkcjonalne (REQ-FUNC-001 do REQ-FUNC-009) zostały zweryfikowane i przetestowane z sukcesem.
 - Testy wydajnościowe: czasy odpowiedzi nieprzekraczające 1 sekundy dla 95% żądań.
 - Liczba błędów średniego i niskiego priorytetu została oceniona jako akceptowalna i nie wpływa na kluczowe działanie aplikacji.
-- Testy regresyjne: brak regresji w funkcjonalności po wdrożeniu nowych funkcji.
+- Testy regresji: brak regresji w funkcjonalności po wdrożeniu nowych funkcji.
 
 ---
 
