@@ -94,7 +94,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 | Kierownik testów        | Kacper i Oliwia | Planowanie i zarządzanie testami.                              |
 | Tester funkcjonalny     | Kacper i Oliwia | Testy zgodności z wymaganiami.                                 |
 | Tester wydajnościowy    | Kacper i Oliwia | Analiza wydajności aplikacji.                                  |
-| Tester regresyjny       | Kacper i Oliwia | Weryfikacja, czy zmiany w systemie nie wpłynęły negatywnie.   |
+| Tester regresji       | Kacper i Oliwia | Weryfikacja, czy zmiany w systemie nie wpłynęły negatywnie.   |
 
 ---
 
