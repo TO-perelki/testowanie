@@ -98,24 +98,36 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 
 ---
 
-## 5. Zarządzanie ryzykiem
+## 5. Zarządzanie ryzykiem - Potencjalne ryzyka i ich wpływ oraz plany łagodzenia ryzyka
 
-### 5.1 Potencjalne ryzyka i ich wpływ
-- **Brak dostępu do środowiska testowego:** Opóźnienia w realizacji testów.
-- **Niekompletne wymagania:** Niewłaściwe przygotowanie przypadków testowych.
-- **Błędy krytyczne wykryte zbyt późno:** Konieczność opóźnienia wdrożenia.
-- **Niekompletne dane testowe:** Mogą wpływać na wyniki.
-- **Niespodziewane zmiany w kodzie:** Mogą wymagać dodatkowych testów.
-- **Brak doświadczenia w testowaniu aplikacji open-source:** Utrudnienie skutecznego testowania.
-- **Niedostateczne zasoby czasowe:** Brak możliwości przetestowania wszystkich funkcji.
+1. **Brak dostępu do środowiska testowego**  
+   - **Wpływ:** Opóźnienia w realizacji testów.  
+   - **Plan łagodzenia ryzyka:** Regularna komunikacja z zespołem deweloperskim, aby zapewnić dostępność środowiska.  
 
-### 5.2 Plany łagodzenia ryzyka
-- Regularna komunikacja z zespołem deweloperskim.
-- Weryfikacja wymagań przed rozpoczęciem testów.
-- Przygotowanie kopii zapasowych danych testowych.
-- Bliska współpraca z zespołem deweloperskim, aby na bieżąco wprowadzać poprawki.
-- Zapoznanie się z zasadami i etykietą pracy w projektach open-source.
-- Ustalanie priorytetów testów i realistyczne planowanie działań.
+2. **Niekompletne wymagania**  
+   - **Wpływ:** Niewłaściwe przygotowanie przypadków testowych.  
+   - **Plan łagodzenia ryzyka:** Weryfikacja wymagań przed rozpoczęciem testów, aby upewnić się, że są kompletne.  
+
+3. **Błędy krytyczne wykryte zbyt późno**  
+   - **Wpływ:** Konieczność opóźnienia wdrożenia.  
+   - **Plan łagodzenia ryzyka:** Bliska współpraca z zespołem deweloperskim, aby na bieżąco wprowadzać poprawki. 
+
+4. **Niekompletne dane testowe**  
+   - **Wpływ:** Mogą wpływać na wyniki testów.  
+   - **Plan łagodzenia ryzyka:** Przygotowanie kopii zapasowych danych testowych oraz ich weryfikacja przed użyciem.  
+
+5. **Niespodziewane zmiany w kodzie**  
+   - **Wpływ:** Mogą wymagać dodatkowych testów.  
+   - **Plan łagodzenia ryzyka:** Regularne monitorowanie zmian w kodzie oraz synchronizacja z zespołem deweloperskim.  
+
+6. **Brak doświadczenia w testowaniu aplikacji open-source**  
+   - **Wpływ:** Utrudnienie skutecznego testowania.  
+   - **Plan łagodzenia ryzyka:** Zapoznanie się z zasadami i etykietą pracy w projektach open-source oraz konsultacje z bardziej doświadczonymi członkami zespołu.  
+
+7. **Niedostateczne zasoby czasowe**  
+   - **Wpływ:** Brak możliwości przetestowania wszystkich funkcji.  
+   - **Plan łagodzenia ryzyka:** Ustalanie priorytetów testów oraz realistyczne planowanie działań, uwzględniając dostępne zasoby czasowe.  
+
 
 ---
 
