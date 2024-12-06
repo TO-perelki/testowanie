@@ -1,6 +1,6 @@
 # Wysokopoziomowe Przypadki Testowe
 
-## Wymagania Funkcyjne
+## Wymagania Funkcjonalne
 
 ### TC-FUNC-001: Weryfikacja wyszukiwania produktów po kodzie kreskowym
 **Cel:** Zweryfikować, czy użytkownik może skutecznie wyszukać produkty za pomocą kodu kreskowego.  
