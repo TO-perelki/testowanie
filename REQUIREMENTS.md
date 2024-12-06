@@ -38,7 +38,7 @@ The program should display information about potential allergens in products.
 
 ### REQ-FUNC-006  
 **Description:**  
-The program must support multiple user interface languages.
+The program must support multiple user interface languages such as English and Polish.
 
 ---
 
