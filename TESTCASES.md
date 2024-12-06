@@ -15,7 +15,13 @@
 ---
 
 ### TC-FUNC-003: Weryfikacja sortowania wyników wyszukiwania
-**Cel:** Zweryfikować, czy system umożliwia sortowanie wyników wyszukiwania według różnych kryteriów.  
+**Cel:** Zweryfikować, czy system umożliwia sortowanie wyników wyszukiwania według różnych kryteriów. Testowanymi rodzajami sortowania będą:  
+- Sortowanie według najczęściej skanowanych produktów  
+- Sortowanie według Nutri-Score  
+- Sortowanie według Eco-Score  
+- Sortowanie według ostatnio dodanych produktów  
+- Sortowanie według ostatnio modyfikowanych produktów  
+
 **Pokrycie wymagań:** REQ-FUNC-003  
 
 ---
