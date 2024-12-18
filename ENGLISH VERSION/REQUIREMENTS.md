@@ -64,10 +64,13 @@ The program should allow users to set dietary preferences (e.g., gluten-free, ve
 
 ### REQ-NFUNC-001  
 **Description:**  
-The system should provide a response time of less than 2 seconds for product search queries.
+The system should provide a response time of less than 2 seconds for product search queries under standard testing conditions. Standard testing conditions include accounting for a fixed and predefined network latency value of 100ms to ensure consistent results across all tests. The total response time should be reported along with the network latency for transparency.ies.
 
 ---
 
 ### REQ-NFUNC-002  
 **Description:**  
-The barcode scanning feature should work smoothly, recognizing codes in under 1 second using standard mobile device cameras.
+The barcode scanning feature should work smoothly, recognizing codes in under 1 second using standard mobile device cameras. Testing will be conducted under predefined conditions to eliminate variable network latency by either:
+
+- Deploying the system locally where network latency is negligible.
+- Including a fixed and predefined network latency value of 100ms in all test environments.
