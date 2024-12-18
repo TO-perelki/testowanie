@@ -147,6 +147,9 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
   - Status błędów (nowe, naprawione, ponownie otwarte).
 - Raport końcowy z podsumowaniem wszystkich wyników testów, w tym:
   - Liczba wykrytych błędów według priorytetów.
-  - Wyniki testów wydajnościowych.
+  - Wyniki testów wydajnościowych:
+      - Średni czas odpowiedzi: Średni czas, jaki system potrzebuje na przetworzenie żądań użytkowników od momentu ich wysłania do momentu uzyskania odpowiedzi.
+      - Czas odpowiedzi dla 95% żądań: Czas, który upływa, zanim 95% wszystkich przetestowanych żądań otrzyma odpowiedź.
+
   - Ocena zgodności z kryteriami akceptacji.
 
