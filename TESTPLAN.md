@@ -42,7 +42,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 - Raport końcowy z testów został zatwierdzony przez zespół projektowy.
 
 ### 2.3 Kryteria akceptacji wyników testów
-- Wszystkie wymagania funkcjonalne (REQ-FUNC-001 do REQ-FUNC-009) zostały zweryfikowane i przetestowane z sukcesem.
+- Wszystkie wymagania funkcjonalne (REQ-FUNC-001 do REQ-FUNC-009) zostały zweryfikowane - testy zostały zaakceptowane, oraz przetestowane funkcjonalności działają zgodnie z założeniami.
 - Testy wydajnościowe: czasy odpowiedzi nieprzekraczające 1 sekundy dla 95% żądań.
 - Liczba błędów średniego i niskiego priorytetu została oceniona jako akceptowalna i nie wpływa na kluczowe działanie aplikacji.
 - Testy regresji: brak regresji w funkcjonalności po wdrożeniu nowych funkcji.
