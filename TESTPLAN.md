@@ -134,7 +134,7 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 ## 6. Metryki i raportowanie
 
 ### 6.1 Kluczowe wskaźniki jakości
-- Procent wykonanych przypadków testowych.
+- Procent przypadków testowych zrealizowanych zgodnie z założeniami i zakończonych wynikiem pozytywnym.
 - Liczba wykrytych błędów krytycznych.
 - Czas naprawy błędów.
 - Średni czas reakcji na zapytanie (wydajność).
