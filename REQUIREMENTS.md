@@ -1,77 +1,76 @@
-# Requirements Document
+# Wymagania
 
-This document outlines the functional and non-functional requirements.
+Ten dokument przedstawia wymagania funkcjonalne oraz niefunkcjonalne.
 
 ---
 
-## Functional Requirements
+## Wymagania Funkcjonalne
 
 ### REQ-FUNC-001  
-**Description:**  
-The program should allow users to search for products by barcode.
+**Opis:**  
+Program powinien umożliwiać użytkownikom wyszukiwanie produktów według kodu kreskowego.
 
 ---
 
 ### REQ-FUNC-002  
-**Description:**  
-The program must enable users to view detailed information about product ingredients.
+**Opis:**  
+Program musi pozwalać użytkownikom na przeglądanie szczegółowych informacji o składnikach produktów.
 
 ---
 
 ### REQ-FUNC-003  
-**Description:**  
-The program should offer the ability to sort search results based on various criteria.
+**Opis:**  
+Program powinien oferować możliwość sortowania wyników wyszukiwania według różnych kryteriów.
 
 ---
 
 ### REQ-FUNC-004  
-**Description:**  
-The program should support adding new products to the database by users.
+**Opis:**  
+Program powinien wspierać dodawanie nowych produktów do bazy przez użytkowników.
 
 ---
 
 ### REQ-FUNC-005  
-**Description:**  
-The program should display information about potential allergens in products.
+**Opis:**  
+Program powinien wyświetlać informacje o potencjalnych alergenach w produktach.
 
 ---
 
 ### REQ-FUNC-006  
-**Description:**  
-The program must support multiple user interface languages such as English and Polish.
+**Opis:**  
+Program musi obsługiwać wiele języków interfejsu użytkownika, takich jak angielski i polski.
 
 ---
 
 ### REQ-FUNC-007  
-**Description:**  
-The program must allow users to report incorrect or incomplete product data.
+**Opis:**  
+Program musi umożliwiać użytkownikom zgłaszanie błędnych lub niepełnych danych produktów.
 
 ---
 
 ### REQ-FUNC-008  
-**Description:**  
-The program must display nutritional value ratings and health scores to help users select healthy products.
+**Opis:**  
+Program musi wyświetlać oceny wartości odżywczych oraz wskaźniki zdrowotne, aby pomóc użytkownikom w wyborze zdrowych produktów.
 
 ---
 
 ### REQ-FUNC-009  
-**Description:**  
-The program should allow users to set dietary preferences (e.g., gluten-free, vegan, low-sodium). Once preferences are set, the system will automatically mark products as compatible or incompatible with the user's preferences, displaying compatibility information for each product.
+**Opis:**  
+Program powinien umożliwiać użytkownikom ustawianie preferencji dietetycznych (np. bezglutenowe, wegańskie, niskosodowe). Po ustawieniu preferencji system automatycznie oznaczy produkty jako zgodne lub niezgodne z preferencjami użytkownika, wyświetlając informację o zgodności dla każdego produktu.
 
 ---
 
-## Non-Functional Requirements
+## Wymagania Niefunkcjonalne
 
 ### REQ-NFUNC-001  
-**Description:**  
-The system should provide a response time of less than 2 seconds for product search queries under standard testing conditions. Standard testing conditions include accounting for a fixed and predefined network latency value of 100ms to ensure consistent results across all tests. The total response time should be reported along with the network latency for transparency.ies.
+**Opis:**  
+System powinien zapewniać czas odpowiedzi krótszy niż 2 sekundy dla zapytań dotyczących wyszukiwania produktów w standardowych warunkach testowych. Standardowe warunki testowe obejmują uwzględnienie stałej i z góry określonej wartości opóźnienia sieciowego wynoszącej 100 ms, aby zapewnić spójne wyniki we wszystkich testach. Łączny czas odpowiedzi powinien być raportowany wraz z opóźnieniem sieciowym dla przejrzystości.
 
 ---
 
 ### REQ-NFUNC-002  
-**Description:**  
-The barcode scanning feature should work smoothly, recognizing codes in under 1 second using standard mobile device cameras. Testing will be conducted under predefined conditions to eliminate variable network latency by either:
+**Opis:**  
+Funkcja skanowania kodów kreskowych powinna działać płynnie, rozpoznając kody w czasie poniżej 1 sekundy z wykorzystaniem standardowych kamer urządzeń mobilnych. Testy będą przeprowadzane w zdefiniowanych warunkach, eliminując zmienność opóźnienia sieciowego poprzez:
 
-- Deploying the system locally where network latency is negligible.
-- Including a fixed and predefined network latency value of 100ms in all test environments.
-
+- Uruchomienie systemu lokalnie, gdzie opóźnienie sieciowe jest pomijalne.  
+- Uwzględnienie stałej i z góry określonej wartości opóźnienia sieciowego wynoszącej 100 ms we wszystkich środowiskach testowych.
