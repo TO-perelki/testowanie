@@ -80,10 +80,10 @@ Open Food Facts to otwartoźródłowa baza danych o produktach spożywczych, kt�
 - **Listopad (tydzień 4):** Przedstawienie planów testów.  
 - **Grudzień (tydzień 1):** Iteracja 1 przypadków testowych: Przygotowanie wysokopoziomowych przypadków testowych dla każdego obszaru.  
 - **Grudzień (tydzień 2):** Iteracja 2 przypadków testowych: Doszczegółowienie (dodanie kroków, danych testowych) oraz przygotowanie puli przypadków dla drugiego zespołu. Losowanie zespołów do testów krzyżowych.  
-- **Grudzień (tydzień 3):** Iteracja 1 wyników testów: Przedstawienie wyników testów przeprowadzonych przez inny zespół.  
-- **Grudzień (tydzień 4):** Iteracja 2 wyników testów: Przedstawienie wyników własnych testów z ostatniego tygodnia.  
-- **Styczeń (tydzień 1):** Iteracja 3 wyników testów: Przedstawienie wyników testów z ostatniego tygodnia.  
-- **Styczeń (tydzień 2):** Iteracja 4 wyników testów: Przedstawienie wyników testów z ostatniego tygodnia.  
+- **Grudzień (tydzień 3):** Iteracja 1 wyników testów: Przedstawienie wyników testów (testy dla wymagań REQ-FUNC-001 - REQ-FUNC-005)  przeprowadzonych przez inny zespół. 
+- **Grudzień (tydzień 4):** Iteracja 2 wyników testów: Przedstawienie wyników własnych testów (testy dla wymagań REQ-FUNC-001 - REQ-FUNC-005) z ostatniego tygodnia.  
+- **Styczeń (tydzień 1):** Iteracja 3 wyników testów: Przedstawienie wyników testów (testy dla wymagań REQ-FUNC-006 - REQ-FUNC-009 i REQ-NFUNC-001 - REQ-NFUNC-002 ) z ostatniego tygodnia.  
+- **Styczeń (tydzień 2):** Iteracja 4 wyników testów: Przedstawienie wyników testów  (testy dla wymagań REQ-FUNC-006 - REQ-FUNC-009 i REQ-NFUNC-001 - REQ-NFUNC-002 ) z ostatniego tygodnia.   z ostatniego tygodnia.  
 - **Styczeń (tydzień 3):** Raporty z testów: Prezentacja wyników i jednostronicowe podsumowanie.  
 - **Styczeń (tydzień 4):** Rezerwa czasowa: Czas na ewentualne poprawki i uzupełnienia.  
 
