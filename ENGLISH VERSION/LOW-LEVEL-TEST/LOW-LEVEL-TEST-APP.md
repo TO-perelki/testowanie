@@ -4,7 +4,7 @@
 **Objective:** To verify if the user can successfully search products using a barcode.
 **Prerequisites:**
 - Device with the application installed and a logged-in user.
-- A product that exists in the database with a visible barcode.
+- A product with a visible barcode, that exists in the database.
 
 **Steps:**
 1. Launch the application on the mobile device.
