@@ -109,7 +109,7 @@
 
 ---
 
-## TC-FUNC-007: Weryfikacja edytowania błędnych lub niekompletnych danych produktu
+## TC-FUNC-007-APP-1: Weryfikacja edytowania błędnych lub niekompletnych danych produktu
 **Cel:** Zweryfikować, czy użytkownik może edytować błędne lub niekompletne dane dotyczące produktu.  
 **Warunki wstępne:**
 - Urządzenie z aplikacją zainstalowaną i zalogowanym użytkownikiem.
