@@ -11,17 +11,10 @@ Po poprawnym zeskanowaniu kodu produktu nieznajdującego się w bazie, aplikacja
 
 ## [TC-FUNC-002-APP-1](https://github.com/TO-perelki/testowanie/blob/main/LOW-LEVEL-TEST/LOW-LEVEL-TEST-APP.md#tc-func-002-app-1-weryfikacja-wyświetlania-szczegółowych-informacji-o-składnikach-produktu)
 
-### Scenariusz: Produkt posiada uzupełnione szczegółowe informacje.
 **Rezultat:**
-Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie, użytkownik ma dostęp do szczegółowych informacji o składnikach każdego produktu.
+Po poprawnym zeskanowaniu kodu produktów znajdujących się w bazie, część z nich nie ma uzupełnionych szczegółowych informacji, więc użytkownik, w niektórych przypadkach nie ma dostępu do szczegółowych informacji o składnikach produktu.
 
-**Test zaliczony.**
-
-### Scenariusz: Produkt nie posiada uzupełnionych szczegółowych informacji.
-**Rezultat:**
-Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie, użytkownik nie ma dostępu do szczegółowych informacji o składnikach każdego produktu.
-
-**Test zaliczony.**
+**Test niezaliczony.**
 
 ---
 
@@ -36,15 +29,8 @@ Po poprawnym zeskanowaniu kodu produktu nieznajdującego się w bazie, użytkown
 
 ## [TC-FUNC-005-APP-1](https://github.com/TO-perelki/testowanie/blob/main/LOW-LEVEL-TEST/LOW-LEVEL-TEST-APP.md#tc-func-005-app-1--weryfikacja-wyświetlania-informacji-o-alergenach)
 
-### Scenariusz: Produkt zawiera alergeny.
 **Rezultat:**
-Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie, użytkownik ma dostęp do informacji o alergenach produktu.
-
-**Test zaliczony.**
-
-### Scenariusz: Produkt nie zawiera alergenów.
-**Rezultat:**
-Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie, brak informacji o potencjalnych alergenach.
+Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie zawierającego informacje o alergenach, użytkownik ma dostęp do informacji o alergenach produktu.
 
 **Test zaliczony.**
 
