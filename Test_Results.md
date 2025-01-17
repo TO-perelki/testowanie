@@ -60,30 +60,3 @@ Po poprawnym zeskanowaniu kodu produktu znajdującego się w bazie, system wyśw
 Po ustawieniu osobistych preferencji, produkty zostają oznaczone w zależności od dopasowania do wybranych preferencji żywieniowych.
 
 **Test zaliczony.**
-
----
-
-## [TC-FUNC-003-WEB-1](https://github.com/TO-perelki/testowanie/blob/main/LOW-LEVEL-TEST/LOW-LEVEL-TEST-WEB.md#tc-func-003-web-1-sortowanie-wyników-według-najczęściej-skanowanych-produktów)
-
-**Rezultat:**
-Po wybraniu z menu sortowania opcji "Najczęściej skanowane" produkty zostają posortowane według liczby skanowań w kolejności malejącej.
-
-**Test zaliczony.**
-
----
-
-## [TC-FUNC-003-WEB-2](https://github.com/TO-perelki/testowanie/blob/main/LOW-LEVEL-TEST/LOW-LEVEL-TEST-WEB.md#tc-func-003-web-2-sortowanie-wyników-według-nutri-score)
-
-**Rezultat:**
-Po wybraniu z menu sortowania opcji "Najczęściej skanowane" produkty zostają posortowane według liczby skanowań w kolejności malejącej.
-
-**Test zaliczony.**
-
----
-
-## [TC-FUNC-003-WEB-3](https://github.com/TO-perelki/testowanie/blob/main/LOW-LEVEL-TEST/LOW-LEVEL-TEST-WEB.md#tc-func-003-web-3-sortowanie-wyników-według-eco-score)
-
-**Rezultat:**
-Po wybraniu z menu sortowania opcji "Eco-Score" produkty zostają posortowane według wartości Eco-Score w kolejności rosnącej (od A do E).
-
-**Test zaliczony.**
