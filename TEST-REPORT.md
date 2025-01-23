@@ -25,7 +25,7 @@
 | Platforma | Testy wykonane/zaliczone | Znalezione defekty |
 | --------- | ------------------------ | ------------------ |
 | APP       | 10/9                     | 1                  |
-| WEB       | 13/3                     | 8                  |
+| WEB       | 13/10                     | 8                  |
 
 ## 3. Zaraportowane defekty
 
