@@ -1,30 +1,42 @@
-# Open Food Facts - Test Plan Repository
+# Open Food Facts - Test Plan Repository  
 
-## Project Description
+## Project Description  
 
-This repository contains a detailed test plan prepared for the Open Food Facts application. Open Food Facts is an open-source platform that enables users to search, analyze, and add information about food products, supporting informed consumer decisions.
+This repository contains the complete test documentation conducted for the Open Food Facts application. Open Food Facts is an open-source platform that allows users to search, analyze, and add information about food products, supporting informed consumer decisions.  
 
-## Repository Content
+The testing project has been completed, and all tests have been documented and analyzed. The repository includes detailed test results, test cases, and a comprehensive report summarizing the testing process.  
+
+## Repository Contents  
+
+- **TEST-REPORT.md**  
+  The final test report summarizing the entire testing process, including:  
+  - An overview of the test scope and results.  
+  - Analysis of identified defects and their impact on application quality.  
+  - Final conclusions regarding the application's compliance with requirements.  
 
 - **TESTPLAN.md**  
-  A comprehensive test plan, compliant with the ISO 29119 standard, which includes:  
-  - Introduction: test objectives, business context, and scope.  
-  - Test goals and criteria: entry, exit, and acceptance criteria.  
-  - Testing strategy: approach, test types, tools, and environment.  
-  - Schedule and resource assignment.  
-  - Risk management and mitigation plans.  
-  - Metrics and reporting methods.
+  A detailed test plan compliant with ISO 29119 guidelines, including:  
+  - Test objectives and scope.  
+  - Testing strategies, tools, and test environment.  
+  - Entry and exit criteria.  
+  - Schedule and risk management.  
 
-- **README.md**  
-  Project summary and repository structure.
+- **TESTCASES.md**  
+  A collection of test cases developed based on functional and non-functional requirements.  
 
-## Project Objective
+- **TEST-RESULTS-WEB.md**  
+  Detailed test results for the web version of the Open Food Facts application.  
 
-The goal of this repository is to support the quality assurance process of the Open Food Facts application by providing a test plan that enables:  
-1. Identification and elimination of bugs.  
-2. Verification of application compliance with functional and non-functional requirements.  
-3. Execution of functional, performance, and regression tests in an organized and repeatable manner.
+- **TEST_RESULTS-APP.md**  
+  Detailed test results for the mobile application of Open Food Facts.  
 
-## Contact
+- **REQUIREMENTS.md**  
+  Documentation of the application requirements that served as the basis for developing test cases.  
 
-For questions or suggestions, please contact the team responsible for the project.
+## Project Summary  
+
+The testing project has been completed according to the planned schedule. Functional, performance, and regression tests confirmed the Open Food Facts application’s compliance with the requirements. The detailed test results and analyses contained in the final report can serve as a foundation for future improvements and further application development.  
+
+## Contact  
+
+For any questions or suggestions regarding the test results, please contact the team responsible for the project.
